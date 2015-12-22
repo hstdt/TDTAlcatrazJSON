@@ -44,6 +44,12 @@
         "screenshot": "https://raw.github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin/master/demo.gif"
       },
       {
+        "name": "HTYCopyIssue",
+        "url": "https://github.com/hanton/CopyIssue-Xcode-Plugin",
+        "description": "Makes Copy Xcode Issue Description Easily, Support Finding Answers in Google or StackOverflow Directly.",
+        "screenshot": "https://github.com/hanton/CopyIssue-Xcode-Plugin/blob/master/ScreenShot.png"
+      },
+      {
         "name": "HOStringSense",
         "url": "https://github.com/holtwick/HOStringSense-for-Xcode",
         "description": "Plugin for Xcode to make working with strings less \"escaped\"",
@@ -83,6 +89,12 @@
         "name": "OMColorSense",
         "url": "https://github.com/omz/ColorSense-for-Xcode",
         "description": "Xcode plugin that makes working with UIColor (and NSColor) more visual."
+      },
+      {
+        "name": "Peckham",
+        "url": "https://github.com/markohlebar/Peckham",
+        "description": "Add #import-s from anywhere in the code.",
+        "screenshot": "https://raw.githubusercontent.com/markohlebar/Peckham/master/Misc/Peckham.gif"
       },
       {
         "name": "RTImageAssets",
