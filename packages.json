@@ -14,6 +14,12 @@
         "screenshot": "https://raw.githubusercontent.com/limejelly/Backlight-for-XCode/master/screenshot.png"
       },
       {
+        "name": "BBUFullIssueNavigator",
+        "url": "https://github.com/neonichu/BBUFullIssueNavigator",
+        "description": "Show all issue content in the issue navigator.",
+        "screenshot": "https://github.com/neonichu/BBUFullIssueNavigator/raw/master/screenshot.png"
+      },
+      {
         "name": "CocoaPods",
         "url": "https://github.com/kattrali/cocoapods-xcode-plugin",
         "description": "CocoaPods integration right in Xcode",
@@ -36,12 +42,6 @@
         "url": "https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin",
         "description": "Enables fuzzy matching in Xcode's autocomplete, using the 'Open Quickly' algorithm.",
         "screenshot": "https://raw.github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin/master/demo.gif"
-      },
-      {
-        "name": "HTYCopyIssue",
-        "url": "https://github.com/hanton/CopyIssue-Xcode-Plugin",
-        "description": "Makes Copy Xcode Issue Description Easily, Support Finding Answers in Google or StackOverflow Directly.",
-        "screenshot": "https://github.com/hanton/CopyIssue-Xcode-Plugin/blob/master/ScreenShot.png"
       },
       {
         "name": "HOStringSense",
@@ -83,12 +83,6 @@
         "name": "OMColorSense",
         "url": "https://github.com/omz/ColorSense-for-Xcode",
         "description": "Xcode plugin that makes working with UIColor (and NSColor) more visual."
-      },
-      {
-        "name": "Peckham",
-        "url": "https://github.com/markohlebar/Peckham",
-        "description": "Add #import-s from anywhere in the code.",
-        "screenshot": "https://raw.githubusercontent.com/markohlebar/Peckham/master/Misc/Peckham.gif"
       },
       {
         "name": "RTImageAssets",
