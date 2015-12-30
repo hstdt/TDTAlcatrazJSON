@@ -109,6 +109,12 @@
         "screenshot": "https://raw.github.com/onevcat/VVDocumenter-Xcode/master/ScreenShot.gif"
       },
       {
+        "name": "VWInstantRun",
+        "url": "https://github.com/wangshengjia/VWInstantRun",
+         "description": "This plugin let you build & run your selected lines of code in Xcode without run the whole project, you'll have the output instantly in your Xcode console.",
+         "screenshot": "https://raw.githubusercontent.com/wangshengjia/VWInstantRun/master/run_swift_code_1.gif"
+      },
+      {
         "name": "XActivatePowerMode",
         "url": "https://github.com/qfish/XActivatePowerMode",
         "description": "An Xcode plug-in makes activate-power-mode happen in your Xcode.",
