@@ -32,6 +32,11 @@
         "screenshot": "https://github.com/kattrali/deriveddata-exterminator/raw/master/docs/menu.png"
       },
       {
+        "name": "DXXcodeConsoleUnicodePlugin",
+        "url": "https://github.com/dhcdht/DXXcodeConsoleUnicodePlugin",
+        "description": "Convert unicode string to Human-readable in xcode 5+ console."
+      },
+      {
         "name": "ESJsonFormat",
         "url": "https://github.com/EnjoySR/ESJsonFormat-Xcode",
         "description": "Xcode plug-in which helps you generate model properties with json easier.",
