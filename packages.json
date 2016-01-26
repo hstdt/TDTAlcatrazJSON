@@ -120,6 +120,12 @@
         "screenshot": "https://github.com/rickytan/RTImageAssets/raw/master/ScreenCap/usage.gif"
       },
       {
+        "name": "SCXcodeSwitchExpander",
+        "url": "https://github.com/stefanceriu/SCXcodeSwitchExpander",
+        "description": "Autocomplete your switch cases",
+        "screenshot": "https://dl.dropboxusercontent.com/u/12748201/Recordings/SCXcodeSwitchExpander/SCXcodeSwitchExpanderExample.png"
+      },
+      {
         "name": "VVDocumenter-Xcode",
         "url": "https://github.com/onevcat/VVDocumenter-Xcode",
         "description": "Xcode plug-in which helps you write Javadoc style documents easier.",
