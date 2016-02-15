@@ -1,11 +1,12 @@
 # TDTAlcatrazJSON
 
+##Introduce
 Xcode Plug-ins I'm Using Now.(Xcode 7.2)
 
 Fast Install&Update By Alcatraz's Load Custom Repository Function.
 
 
-Here's the list and my rates:
+###Frequency:
 
 AdjustFontSize    ★★★☆☆
 
