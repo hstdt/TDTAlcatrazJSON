@@ -16,7 +16,7 @@ BBUFullIssueNavigator    ★★★☆☆
 
 CocoaPods   ★★★★★
 
-DerivedData Exterminato   ★★★☆☆
+DerivedData Exterminator   ★★★☆☆
 
 DXXcodeConsoleUnicodePlugin   ★★★☆☆
 
