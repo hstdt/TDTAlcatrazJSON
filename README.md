@@ -28,6 +28,8 @@ GitDiff   ★★★★★
 
 HTYCopyIssue    ★★★★☆
 
+IntelliPaste    ★★★☆☆
+
 HOStringSense   ★★★★★
 
 JumpMarks ★★★☆☆
@@ -57,6 +59,8 @@ VWInstantRun    ★★★☆☆
 XActivatePowerMode    ★☆☆☆☆
 
 XAlign    ★★★★☆
+
+XCSnippetr  ★★★☆☆
 
 XQuit   ★★★☆☆
 
