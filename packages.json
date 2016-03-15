@@ -67,6 +67,12 @@
         "screenshot": "https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/Xcode.png"
       },
       {
+        "name": "IntelliPaste",
+        "url": "https://github.com/RobertGummesson/IntelliPaste-for-XCode",
+        "description": "IntelliPaste is an Xcode plugin that makes copy-pasting methods and RGB colors easier.",
+        "screenshot": "https://raw.githubusercontent.com/RobertGummesson/IntelliPaste-for-XCode/master/Screenshots/IntelliPaste-Demo.gif"
+      },
+      {
         "name": "JumpMarks",
         "url": "https://github.com/merrickp/JumpMarks",
         "description": "Xcode plugin for numbered bookmarks. Set bookmarks with ⇧⌥[#], and jump back with ⌥[#] with the respective number.",
@@ -148,6 +154,12 @@
         "url": "https://github.com/qfish/XAlign",
         "description": "An amazing Xcode plugin to align regular code. It can align Xnything in any way you want.",
         "screenshot": "https://raw.github.com/qfish/XAlign/gh-pages/images/equal.gif"
+      },
+      {
+        "name": "XCSnippetr",
+        "url": "https://github.com/dzenbot/XCSnippetr",
+        "description": "An XCode Plugin to upload code snippets directly into Slack and Gist",
+        "screenshot": "https://raw.githubusercontent.com/dzenbot/XCSnippetr/master/Documentation/Screenshots/screenshot_login_slack.png"
       },
       {
         "name": "XQuit",
