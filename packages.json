@@ -20,6 +20,12 @@
         "screenshot": "https://github.com/neonichu/BBUFullIssueNavigator/raw/master/screenshot.png"
       },
       {
+        "name": "ClangFormat",
+        "url": "https://github.com/travisjeffery/ClangFormat-Xcode",
+        "description": "Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang",
+        "screenshot": "https://raw.github.com/travisjeffery/ClangFormat-Xcode/master/README/usage.png"
+      },
+      {
         "name": "CocoaPods",
         "url": "https://github.com/kattrali/cocoapods-xcode-plugin",
         "description": "CocoaPods integration right in Xcode",

@@ -14,6 +14,8 @@ Backlight   ★★★★☆
 
 BBUFullIssueNavigator    ★★★☆☆
 
+ClangFormat    ★★★★☆
+
 CocoaPods   ★★★★★
 
 DerivedData Exterminator   ★★★☆☆
@@ -78,3 +80,5 @@ Set As Custom Repository.
 PS:[Alcatraz default repository](https://raw.githubusercontent.com/alcatraz/alcatraz-packages/master/packages.json)
 
 Switching right now.
+
+
